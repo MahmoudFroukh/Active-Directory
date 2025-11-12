@@ -59,4 +59,5 @@ Build and manage a simulated enterprise network using Active Directory to develo
 <img width="754" height="729" alt="Fixing the power on error" src="https://github.com/user-attachments/assets/84109734-d234-47ef-bbd4-b4eddec38260" />
 
 - Once you power the machine off, go to the settings of the machine then into floppy, then turn this setting off.
+- After this, we can power the machine back up again.
 
