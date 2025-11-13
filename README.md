@@ -61,3 +61,7 @@ Build and manage a simulated enterprise network using Active Directory to develo
 - Once you power the machine off, go to the settings of the machine then into floppy, then turn this setting off.
 - After this, we can power the machine back up again.
 
+<img width="1019" height="765" alt="Updateing the machine" src="https://github.com/user-attachments/assets/e608f409-f7f5-4b43-ba54-5fad2a48820f" />
+
+- After we log in with the local admin account we created, we will update the machine following best security practices.
+- Restart the machine when the updates are done so they can take full effect.
