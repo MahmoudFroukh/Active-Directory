@@ -27,7 +27,7 @@ Build and manage a simulated enterprise network using Active Directory to develo
 
 ### Step 2 - Creating the virtual machine:
 
-<img width="419" height="426" alt="Creating The Machine" src="https://github.com/user-attachments/assets/bb2f3828-c83a-4010-817f-0d47d1769535" />
+<img width="423" height="427" alt="Creating the machine2" src="https://github.com/user-attachments/assets/bdea2d09-50e8-4d0a-bc0e-c57a8363918b" />
 
 - We will choose the recommended option.
 
