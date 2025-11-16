@@ -7,3 +7,4 @@
 - We will create a new OU and call it ADMINS.
 - Now we can create a new user in this OU.
 - Then we add this user to the Domain Admins.
+- Now we can sign in with this user instead of the default Admin account
