@@ -24,7 +24,7 @@
 <img width="965" height="407" alt="Users being created" src="https://github.com/user-attachments/assets/ba7c13ad-de99-44b3-a466-69091f43d2de" />
 
 - Make sure we are in the correct directory.
-- Now we can run it.
+- Now we can run the script.
 
 <img width="915" height="671" alt="Users Created" src="https://github.com/user-attachments/assets/38b3945d-0661-4d4e-90cd-a26eb563b0be" />
 
