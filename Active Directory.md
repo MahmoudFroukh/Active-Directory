@@ -2,7 +2,7 @@
 
 ### Summary
 
-This lab simulates a small Active Directory environment using VMWware with a Domain Controller providing DHCP, DNS, and NAT services to one internal client. Two network segments are used: An external network (home router) for internet access, and an internal isolated network for Active Directory services.
+This lab simulates a small Active Directory environment using VMware with a Domain Controller providing DHCP, DNS, and NAT services to one internal client. Two network segments are used: An external network (home router) for internet access, and an internal isolated network for Active Directory services.
 
 ### Network Diagram
 
