@@ -38,3 +38,20 @@ This lab simulates a small Active Directory environment using VMware with a Doma
 <img width="915" height="671" alt="Users Created" src="https://github.com/user-attachments/assets/38b3945d-0661-4d4e-90cd-a26eb563b0be" />
 
 - When we go back to `Active Directory Users and Computers` we see all the new users that were created.
+
+### Setting up our client computer
+
+<img width="1025" height="622" alt="Client1" src="https://github.com/user-attachments/assets/62b071cf-bbba-4c2c-9819-d76f9e4ad2d0" />
+
+- Here we can see that `CLIENT1` now has an IP address and a default gatway.
+- Now we can ping `mydomain.com`.
+
+<img width="320" height="387" alt="Joining the domain" src="https://github.com/user-attachments/assets/0f38f5c1-5ae7-407f-b4fe-634c1d8a6f3d" />
+
+- Here we are joining the domain.
+
+<img width="709" height="429" alt="Member of the domain" src="https://github.com/user-attachments/assets/6bbb384f-4a37-4de0-b5d2-49b872a97563" />
+<img width="994" height="394" alt="Lease" src="https://github.com/user-attachments/assets/add4ae47-2fa8-423a-bae6-caaa3d2371f0" />
+
+- Now we can see that `CLIENT1` is a member of computers and our DHCP server gave it an address.
+
