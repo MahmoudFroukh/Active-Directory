@@ -28,4 +28,4 @@
 
 <img width="915" height="671" alt="Users Created" src="https://github.com/user-attachments/assets/38b3945d-0661-4d4e-90cd-a26eb563b0be" />
 
-- Now when we go back to `Active Directory Users and Computer` we see all the new users that were created.
+- When we go back to `Active Directory Users and Computers` we see all the new users that were created.
