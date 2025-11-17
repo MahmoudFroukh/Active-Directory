@@ -55,3 +55,5 @@ This lab simulates a small Active Directory environment using VMware with a Doma
 
 - Now we can see that `CLIENT1` is a member of computers and our DHCP server gave it an address.
 
+### Resetting a Users Password
+
