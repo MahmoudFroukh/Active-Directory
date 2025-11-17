@@ -1,8 +1,17 @@
 ## Active Directory
 
+### Summary
+
+This lab simulates a small Active Directory environment using VMWware with a Domain Controller providing DHCP, DNS, and NAT services to one internal client. Two network segments are used: An external network (home router) for internet access, and an internal isolated network for Active Directory services.
+
 ### Network Diagram
 
 <img width="1071" height="681" alt="Active Directory drawio" src="https://github.com/user-attachments/assets/ce3c4524-33a8-4dd5-b120-8e19542c22cc" />
+
+- The Domain Controller has two NICs: one connected to the home network for internet access, and one on an internal VMware network with a static IP `172.16.0.1` used for all AD services.
+- The interanl network uses the `172.16.0.x` range, where clients receive IP addressing `172.16.0.100-200` from the DC's DHCP scope.
+- The Windows 11 client connects only to the internal VMware network and relies on the DC for DHCP, DNS, and domain joining.
+- This setup isolates lab traffic from the home network while still allowing internal machines to reach the internet through the DC's NAT, creating a realistic and safe AD practice environment.
 
 ### Creating a new organizational unit and adding a user
 
