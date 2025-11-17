@@ -7,7 +7,7 @@ Build and manage a simulated enterprise network using Active Directory to develo
 ## Skills Learned
 
 - Installed and configured Active Directory Domain Services.
-- Created and managed users, groups, and organizastional units.
+- Created and managed users, groups, and organizational units.
 - Implemented and troubleshooted Group Policy Objects.
 - Managed DNS and DHCP within a Windows Server environment.
 - Joined Windows clients to a domain and verified authentication.
