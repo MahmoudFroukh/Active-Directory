@@ -55,5 +55,9 @@ This lab simulates a small Active Directory environment using VMware with a Doma
 
 - Now we can see that `CLIENT1` is a member of computers and our DHCP server gave it an address.
 
-### Resetting a Users Password
+### Resetting a Users Password From a Lockout
 
+<img width="408" height="535" alt="User account lockout" src="https://github.com/user-attachments/assets/aa0a5b06-85c1-4cd3-8a35-d2d67cef021d" />
+
+- We find the user first using the `find` function.
+- Then we `Unlock` the account.
