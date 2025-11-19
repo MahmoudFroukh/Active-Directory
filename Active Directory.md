@@ -61,3 +61,17 @@ This lab simulates a small Active Directory environment using VMware with a Doma
 
 - We find the user first using the `find` function.
 - Then we `Unlock` the account.
+
+### Creating a Group Policy Object
+
+<img width="1414" height="610" alt="Creating a GPO" src="https://github.com/user-attachments/assets/98ff93da-1fcf-44de-aba2-91504e5ea373" />
+
+- Here I created a GPO and called it `Screen Saver`
+- This will enable the screensaver and make it password protected.
+
+<img width="1413" height="442" alt="Linking a GPO" src="https://github.com/user-attachments/assets/2816de91-a99d-4d63-adda-c89370174fd8" />
+
+- Now I have it linked to the `Accounting` OU.
+- This is a great GPO for the Accounting team as they will be dealing with the money of the company.
+
+
