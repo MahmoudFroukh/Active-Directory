@@ -72,7 +72,7 @@ This lab simulates a small Active Directory environment using VMware with a Doma
 <img width="1413" height="442" alt="Linking a GPO" src="https://github.com/user-attachments/assets/2816de91-a99d-4d63-adda-c89370174fd8" />
 
 - Now I have it linked to the `Accounting` OU.
-- This is a great GPO for the Accounting team as they will be dealing with the money of the company.
+- This makes sense, since the Accounting team will be dealing with money
 
 <img width="985" height="527" alt="Security filtering GPO" src="https://github.com/user-attachments/assets/ce7a5e65-a35d-4326-a0ae-b900278b519b" />
 
