@@ -62,7 +62,7 @@ This lab simulates a small Active Directory environment using VMware with a Doma
 - We find the user first using the `find` function.
 - Then we `Unlock` the account.
 
-### Creating a Group Policy Object
+### Creating Group Policy Objects
 
 <img width="1414" height="610" alt="Creating a GPO" src="https://github.com/user-attachments/assets/98ff93da-1fcf-44de-aba2-91504e5ea373" />
 
@@ -77,3 +77,8 @@ This lab simulates a small Active Directory environment using VMware with a Doma
 <img width="985" height="527" alt="Security filtering GPO" src="https://github.com/user-attachments/assets/ce7a5e65-a35d-4326-a0ae-b900278b519b" />
 
 - We can also see here that only users in the `Accounting` OU have the proper authentication for this GPO.
+
+<img width="1416" height="603" alt="USB Drives GPO" src="https://github.com/user-attachments/assets/fba63d97-3a16-477f-bab0-e9481910140c" />
+
+- I created another GPO for the `Accounting` OU.
+- These will disable the use of USB drives to prevent data exfiltration.
