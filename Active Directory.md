@@ -82,3 +82,16 @@ This lab simulates a small Active Directory environment using VMware with a Doma
 
 - I created another GPO for the `Accounting` OU.
 - These will disable the use of USB drives to prevent data exfiltration.
+
+### Creating role-based security groups (RBAC)
+
+<img width="660" height="429" alt="RBAC groups" src="https://github.com/user-attachments/assets/efe39889-851a-4739-ade6-892421462aef" />
+
+- Within my `HR` OU, I created role-based security groups.
+- `HR_Managers` have full HR data and can approve changes.
+- `HR_Recruiting` has access to recruiting tools and candidate folders.
+- `HR_Onboarding` has access to onboarding checklists and new hire docs.
+
+<img width="397" height="453" alt="RBAC members HR" src="https://github.com/user-attachments/assets/5f21c0a7-fe5d-4a28-8bd1-220b7b1078e5" />
+
+- Here in the `GRP_HR_Onboarding` group, we can see the users we assigned.
