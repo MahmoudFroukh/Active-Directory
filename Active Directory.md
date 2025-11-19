@@ -74,4 +74,6 @@ This lab simulates a small Active Directory environment using VMware with a Doma
 - Now I have it linked to the `Accounting` OU.
 - This is a great GPO for the Accounting team as they will be dealing with the money of the company.
 
+<img width="985" height="527" alt="Security filtering GPO" src="https://github.com/user-attachments/assets/ce7a5e65-a35d-4326-a0ae-b900278b519b" />
 
+- We can also see here that only users in the `Accounting` OU have the proper authentication for this GPO.
