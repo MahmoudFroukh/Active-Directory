@@ -15,7 +15,7 @@ Build and manage a simulated enterprise network using Active Directory to develo
 
 ## Tools Used
 
-- Vmware workstation pro
+- VMware workstation pro
 - Windows Server 2022
 - Powershell
 - Active Directory
